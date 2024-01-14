@@ -16,4 +16,4 @@ Je sais également manipuler les logiciels :
 
 <h2>Statistiques</h2>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=370&layout=compact&langs_count=4"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=365&layout=compact&langs_count=4"/>
