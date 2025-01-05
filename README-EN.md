@@ -7,14 +7,14 @@
         <img src="https://img.shields.io/badge/README-EN-blue" alt="English version">
     </a>
     |
-    <a href="https://axelriv62.github.io/portfolio">
+    <a href="https://axelriv62.github.io/portfolio/english/index.html">
         <img src="https://img.shields.io/badge/Portfolio-1E2958?style=flat&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/axel-riviere-dev">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://axelriv62.github.io/portfolio/media/cv_axel_riviere_fr.pdf">
-        <img src="https://img.shields.io/badge/CV-4A3D75?style=flat&logoColor=white" alt="CV">
+    <a href="https://axelriv62.github.io/portfolio/media/cv_axel_riviere_en.pdf">
+        <img src="https://img.shields.io/badge/Resume-4A3D75?style=flat&logoColor=white" alt="Resume">
     </a>
 </h1>
 
