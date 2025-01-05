@@ -7,8 +7,14 @@
         <img src="https://img.shields.io/badge/README-EN-blue" alt="English version">
     </a>
     |
+    <a href="https://axelriv62.github.io/portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-1E2958?style=flat&logoColor=white" alt="Portfolio">
+    </a>
     <a href="https://www.linkedin.com/in/axel-riviere-dev">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://axelriv62.github.io/portfolio/media/cv_axel_riviere_fr.pdf">
+        <img src="https://img.shields.io/badge/CV-4A3D75?style=flat&logoColor=white" alt="CV">
     </a>
 </h1>
 
@@ -21,7 +27,7 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 
 <h3> 💻 Languages and Technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,html,css,js,postgresql,sqlite,plsql,bash,docker&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,html,css,js,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
 
 <h3>⚙️ Software, Tools, and Environments</h3>
 
@@ -29,7 +35,7 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 
 <h3> 🚀 Currently Learning</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,flask&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel&theme=dark)
 
 <hr>
 
@@ -40,4 +46,4 @@ I would be happy to talk with you if you’d like, whether on LinkedIn or via em
 
 <h3>📊 Stats</h3>
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="Profile Stats"/> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=380&layout=compact&langs_count=4" alt="Most Used Languages"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="Profile Stats"/> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=380&layout=compact" alt="Most Used Languages"/>
