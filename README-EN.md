@@ -19,7 +19,7 @@
 </h1>
 
 <h3> 👋 Hello! </h3>
-My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens, and I am passionate about application development. I am looking for an 8 to 10 weeks internship starting in April 2025 or a work-study opportunity from January to June 2025 to put my skills into practice and deepen my experience.
+My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens, and I am passionate about application development. I am looking for an 8 to 10 weeks internship starting in April 2025 or a work-study opportunity of 18 months from January 2025 to put my skills into practice and deepen my experience.
 
 <br>Outside of my studies, I am a football passionate, a big movie fan, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
 
@@ -27,15 +27,15 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 
 <h3> 💻 Languages and Technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,html,css,js,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
 
 <h3>⚙️ Software, Tools, and Environments</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,eclipse,vscode,linux,git,gitlab,github,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,figma,ps,xd&theme=dark)
 
 <h3> 🚀 Currently Learning</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,android,api,postman&theme=dark)
 
 <hr>
 

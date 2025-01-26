@@ -19,7 +19,7 @@
 </h1>
 
 <h3> 👋 Bonjour ! </h3>
-Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l’IUT de Lens et passionné par le développement d’applications. Je recherche un stage de 8 à 10 semaines dès avril 2025 ou une alternance de janvier à juin 2025 pour mettre en pratique mes compétences et approfondir mon expérience.
+Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l’IUT de Lens et passionné par le développement d’applications. Je recherche un stage de 8 à 10 semaines dès avril 2025 ou une alternance de 18 mois à partir de janvier 2025 pour mettre en pratique mes compétences et approfondir mon expérience.
 
 <br>En dehors de ma formation, je suis passionné de football, un grand cinéphile, lecteur de romans et de comic books ainsi que joueur à mes heures perdues. Je suis également curieux des dernières avancées technologiques, notamment dans le domaine de l'intelligence artificielle.
 
@@ -27,15 +27,15 @@ Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l�
 
 <h3> 💻 Langages et technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,html,css,js,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
 
 <h3>⚙️ Logiciels, outils et environnements</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,eclipse,vscode,linux,git,gitlab,github,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,figma,ps,xd&theme=dark)
 
 <h3> 🚀 En cours d'apprentissage</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,android,api,postman&theme=dark)
 
 <hr>
 
