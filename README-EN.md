@@ -7,19 +7,19 @@
         <img src="https://img.shields.io/badge/README-EN-blue" alt="English version">
     </a>
     |
-    <a href="https://axelriv62.github.io/portfolio/english/index.html">
+    <a href="https://axel-riviere.dev">
         <img src="https://img.shields.io/badge/Portfolio-1E2958?style=flat&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/axel-riviere-dev">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://axelriv62.github.io/portfolio/media/cv_axel_riviere_en.pdf">
+    <a href="https://axel-riviere.dev/resume.pdf">
         <img src="https://img.shields.io/badge/Resume-4A3D75?style=flat&logoColor=white" alt="Resume">
     </a>
 </h1>
 
 <h3> 👋 Hello! </h3>
-My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens, and I am passionate about application development. I am looking for an 8 to 10 weeks internship starting in April 2025 or a work-study opportunity of 18 months from January 2025 to put my skills into practice and deepen my experience.
+My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens, and I am passionate about application development. I am looking for a work-study opportunity for my third year of degree in order to put my skills into practice and deepen my experience.
 
 <br>Outside of my studies, I am a football passionate, a big movie fan, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
 
@@ -35,7 +35,7 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 
 <h3> 🚀 Currently Learning</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,android,api,postman&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,react,next,tailwind,android,api,postman&theme=dark)
 
 <hr>
 
