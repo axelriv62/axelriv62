@@ -27,15 +27,15 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 
 <h3> 💻 Languages and Technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,ts,angular,flask,postgresql,mysql,sqlite,plsql,bash,android,api,docker,selenium&theme=dark)
 
 <h3>⚙️ Software, Tools, and Environments</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,postman,figma,ps,xd&theme=dark)
 
 <h3> 🚀 Currently Learning</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,react,next,tailwind,android,api,postman&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind&theme=dark)
 
 <hr>
 

@@ -27,15 +27,15 @@ Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l�
 
 <h3> 💻 Langages et technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,flask,postgresql,mysql,sqlite,plsql,bash,docker&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,ts,angular,flask,postgresql,mysql,sqlite,plsql,bash,android,api,docker,selenium&theme=dark)
 
 <h3>⚙️ Logiciels, outils et environnements</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,postman,figma,ps,xd&theme=dark)
 
 <h3> 🚀 En cours d'apprentissage</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,react,next,tailwind,android,api,postman&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind&theme=dark)
 
 <hr>
 
