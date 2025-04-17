@@ -21,21 +21,21 @@
 <h3> 👋 Hello! </h3>
 My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens, and I am passionate about application development. I am looking for a work-study opportunity for my third year of degree in order to put my skills into practice and deepen my experience.
 
-<br>Outside of my studies, I am a football passionate, a big movie fan, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
+<br>Outside my studies, I am a football passionate, a big movie fan, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
 
 <hr>
 
-<h3> 💻 Languages and Technologies</h3>
+<h3> 💻 Languages and technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,ts,angular,flask,postgresql,mysql,sqlite,plsql,bash,android,api,docker,selenium&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,ts,angular,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
 
-<h3>⚙️ Software, Tools, and Environments</h3>
+<h3>⚙️ Software, tools, and environments</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,postman,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,postman,selenium,figma,ps,xd&theme=dark)
 
-<h3> 🚀 Currently Learning</h3>
+<h3> 🚀 Currently learning</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind,vercel&theme=dark)
 
 <hr>
 
