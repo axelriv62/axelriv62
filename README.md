@@ -1,9 +1,9 @@
 <h1>
     Axel Rivière — @axelriv62 |
-    <a href="https://github.com/axelriv62/axelriv62/blob/main/README.md">
+    <a href="README.md">
         <img src="https://img.shields.io/badge/README-FR-blue" alt="French version">
     </a>
-    <a href="https://github.com/axelriv62/axelriv62/blob/main/README-EN.md">
+    <a href="README-EN.md">
         <img src="https://img.shields.io/badge/README-EN-blue" alt="English version">
     </a>
     |
@@ -27,15 +27,15 @@ Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l�
 
 <h3> 💻 Langages et technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,php,laravel,html,css,ts,angular,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,next,react,angular,java,py,php,laravel,html,css,tailwind,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
 
 <h3>⚙️ Logiciels, outils et environnements</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,postman,selenium,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,figma,ps,xd&theme=dark)
 
 <h3> 🚀 En cours d'apprentissage</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind,vercel&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,lambda,apigateway,ses,cloudwatch&theme=dark)
 
 <hr>
 
