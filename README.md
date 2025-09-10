@@ -19,7 +19,7 @@
 </h1>
 
 <h3> 👋 Bonjour ! </h3>
-Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l’IUT de Lens et passionné par le développement d’applications. Je recherche une alternance pour ma troisième année afin de mettre en pratique mes compétences et approfondir mon expérience.
+Je m’appelle Axel, je suis étudiant en 3ᵉ année de BUT Informatique à l’IUT de Lens et en alternance chez Wordline en tant que développeur full-stack.
 
 <br>En dehors de ma formation, je suis passionné de football, un grand cinéphile, lecteur de romans et de comic books ainsi que joueur à mes heures perdues. Je suis également curieux des dernières avancées technologiques, notamment dans le domaine de l'intelligence artificielle.
 
@@ -31,11 +31,11 @@ Je m’appelle Axel, je suis étudiant en 2ᵉ année de BUT Informatique à l�
 
 <h3>⚙️ Logiciels, outils et environnements</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,aws,dynamodb,lambda,apigateway,ses,cloudwatch,figma&theme=dark)
 
 <h3> 🚀 En cours d'apprentissage</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,lambda,apigateway,ses,cloudwatch&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,elasticsearch,podman&theme=dark)
 
 <hr>
 

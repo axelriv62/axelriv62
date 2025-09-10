@@ -19,7 +19,7 @@
 </h1>
 
 <h3> 👋 Hello! </h3>
-My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens, and I am passionate about application development. I am looking for a work-study opportunity for my third year of degree in order to put my skills into practice and deepen my experience.
+My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens and a full-stack developer apprentice at Worldline France.
 
 <br>Outside my studies, I am a football passionate, a big movie fan, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
 
@@ -31,11 +31,11 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 
 <h3>⚙️ Software, tools, and environments</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,figma,ps,xd&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,aws,dynamodb,lambda,apigateway,ses,cloudwatch,figma&theme=dark)
 
 <h3> 🚀 Currently learning</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,dynamodb,lambda,apigateway,ses,cloudwatch&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,elasticsearch,podman&theme=dark)
 
 <hr>
 
