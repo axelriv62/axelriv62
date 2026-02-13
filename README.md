@@ -19,7 +19,7 @@
 </h1>
 
 <h3> 👋 Bonjour ! </h3>
-Je m’appelle Axel, je suis étudiant en 3ᵉ année de BUT Informatique à l’IUT de Lens et en alternance chez Wordline en tant que développeur full-stack.
+Je m’appelle Axel, je suis étudiant en 3ᵉ année de BUT Informatique à l’IUT de Lens et en alternance chez Wordline Noyelles-lès-Seclin en tant que développeur full-stack.
 
 <br>En dehors de ma formation, je suis passionné de football, un grand cinéphile, lecteur de romans et de comic books ainsi que joueur à mes heures perdues. Je suis également curieux des dernières avancées technologiques, notamment dans le domaine de l'intelligence artificielle.
 
@@ -27,15 +27,11 @@ Je m’appelle Axel, je suis étudiant en 3ᵉ année de BUT Informatique à l�
 
 <h3> 💻 Langages et technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,next,react,angular,java,py,php,laravel,html,css,tailwind,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,ts,js,next,react,angular,py,php,laravel,html,css,tailwind,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
 
 <h3>⚙️ Logiciels, outils et environnements</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,aws,dynamodb,lambda,apigateway,ses,cloudwatch,figma&theme=dark)
-
-<h3> 🚀 En cours d'apprentissage</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,elasticsearch,podman&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,gitea,docker,podman,postman,selenium,aws,dynamodb,lambda,apigateway,ses,cloudwatch,figma&theme=dark)
 
 <hr>
 
@@ -46,4 +42,4 @@ Je serais ravi d'échanger avec vous si vous le souhaitez, que ce soit sur Linke
 
 <h3>📊 Statistiques</h3>
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="Statistiques de profil"/> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=380&layout=compact" alt="Langages les plus utilisés"/>
+<img height="160px" src="https://github-stats-extended.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="Statistiques de profil"/> <img height="160px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=380&layout=compact" alt="Langages les plus utilisés"/>

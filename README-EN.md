@@ -19,23 +19,19 @@
 </h1>
 
 <h3> 👋 Hello! </h3>
-My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens and a full-stack developer apprentice at Worldline France.
+My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens and a full-stack developer apprentice at Worldline Noyelles-lès-Seclin.
 
-<br>Outside my studies, I am a football passionate, a big movie fan, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
+<br>Outside my studies, I am a football fan, a movie passionate, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
 
 <hr>
 
 <h3> 💻 Languages and technologies</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,next,react,angular,java,py,php,laravel,html,css,tailwind,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,ts,js,next,react,angular,py,php,laravel,html,css,tailwind,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
 
 <h3>⚙️ Software, tools, and environments</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,docker,vercel,postman,selenium,aws,dynamodb,lambda,apigateway,ses,cloudwatch,figma&theme=dark)
-
-<h3> 🚀 Currently learning</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,elasticsearch,podman&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,phpstorm,datagrip,webstorm,androidstudio,eclipse,vscode,linux,git,gitlab,github,gitea,docker,podman,postman,selenium,aws,dynamodb,lambda,apigateway,ses,cloudwatch,figma&theme=dark)
 
 <hr>
 
@@ -46,4 +42,4 @@ I would be happy to talk with you if you’d like, whether on LinkedIn or via em
 
 <h3>📊 Stats</h3>
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="Profile Stats"/> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=380&layout=compact" alt="Most Used Languages"/>
+<img height="160px" src="https://github-stats-extended.vercel.app/api?username=axelriv62&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&line_height=24" alt="Profile Stats"/> <img height="160px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=axelriv62&theme=tokyonight&hide_border=true&card_width=380&layout=compact" alt="Most Used Languages"/>
