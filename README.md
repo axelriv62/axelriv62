@@ -1,21 +1,16 @@
 <h1>
     Axel Rivière — @axelriv62 |
     <a href="README.md">
-        <img src="https://img.shields.io/badge/README-FR-blue" alt="French version">
-    </a>
+        <img src="https://img.shields.io/badge/README-FR-blue" alt="French version"></a>
     <a href="README-EN.md">
-        <img src="https://img.shields.io/badge/README-EN-blue" alt="English version">
-    </a>
+        <img src="https://img.shields.io/badge/README-EN-blue" alt="English version"></a>
     |
     <a href="https://axel-riviere.dev">
-        <img src="https://img.shields.io/badge/Portfolio-1E2958?style=flat&logoColor=white" alt="Portfolio">
-    </a>
+        <img src="https://img.shields.io/badge/Portfolio-1E2958?style=flat&logoColor=white" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/axel-riviere-dev">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://axel-riviere.dev/resume-axel-riviere.pdf">
-        <img src="https://img.shields.io/badge/CV-4A3D75?style=flat&logoColor=white" alt="CV">
-    </a>
+        <img src="https://img.shields.io/badge/CV-4A3D75?style=flat&logoColor=white" alt="CV"></a>
 </h1>
 
 <h3>🔎 EN RECHERCHE D'UN STAGE</h3>
@@ -45,7 +40,7 @@ Je m’appelle Axel, je suis étudiant en première année de [master intelligen
 <hr>
 
 <h3>🤝 Contact </h3>
-Je serais ravi d'échanger avec vous si vous le souhaitez, que ce soit sur [LinkedIn](https://www.linkedin.com/in/axel-riviere-dev) ou par email à [axel.riviere.dev@gmail.com](mailto:axel.riviere.dev@gmail.com).
+Je serais ravi d'échanger avec vous si vous le souhaitez, que ce soit sur [LinkedIn](https://www.linkedin.com/in/axel-riviere-dev) ou par email à axel.riviere.dev@gmail.com.
 
 <hr>
 
