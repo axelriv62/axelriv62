@@ -21,14 +21,14 @@
 <h3>🔎 LOOKING FOR AN INTERNSHIP</h3>
 I am looking for an internship of at least 10 weeks in the AI sector, starting no later than the end of March 2027 (03/30/27).
 
-This could lead to a work-study program during my second year of my master’s degree and then to a full-time position after I graduate.
+<br>This could lead to a work-study program during my second year of my master’s degree and then to a full-time position after I graduate.
 
 <hr>
 
 <h3> 👋 Hello! </h3>
 My name is Axel. I am a first-year student in the [Master’s in Artificial Intelligence](https://www.sciences.univ-artois.fr/master-intelligence-artificielle), specifically in the “Applied Artificial Intelligence” track, at the Jean Perrin Faculty of Sciences in Lens. 
 
-I previously studied full-stack development as part of a Bachelor’s degree in Computer Science at the IUT of Lens, which allowed me to complete a one-year apprenticeship as a full-stack research and development engineer at Worldline and then Magellan in Noyelles-lès-Seclin on the [Parcours Solidarités](https://www.magellangroup.eu/fr/products/trusted-services/trusted-social-care/parcours-solidarites/) project.
+<br>I previously studied full-stack development as part of a Bachelor’s degree in Computer Science at the IUT of Lens, which allowed me to complete a one-year apprenticeship as a full-stack research and development engineer at Worldline and then Magellan in Noyelles-lès-Seclin on the [Parcours Solidarités](https://www.magellangroup.eu/fr/products/trusted-services/trusted-social-care/parcours-solidarites/) project.
 
 <br>Outside my studies, I am a football fan, a cinephile, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances.
 

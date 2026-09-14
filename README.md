@@ -21,14 +21,14 @@
 <h3>🔎 EN RECHERCHE D'UN STAGE</h3>
 Je suis à la recherche d'un stage d'au moins 10 semaines dans le secteur de l'IA pour minimum fin mars 2027 (30/03/27).
 
-Celui-ci pourrait se poursuivre par une alternance pour ma deuxième année de master puis par un contrat après l'obtention de mon diplôme.
+<br>Celui-ci pourrait se poursuivre par une alternance pour ma deuxième année de master puis par un contrat après l'obtention de mon diplôme.
 
 <hr>
 
 <h3>👋 Bonjour ! </h3>
 Je m’appelle Axel, je suis étudiant en première année de [master intelligence artificielle](https://www.sciences.univ-artois.fr/master-intelligence-artificielle), plus précisément au sein du parcours "intelligence artificielle appliquée", à la faculté des sciences Jean Perrin à Lens. 
 
-J'ai suivi auparavant des études en développement full-stack avec un BUT informatique à l'IUT de Lens avec lequel j'ai pu réaliser une année en apprentissage en tant qu'ingénieur études et développement full-stack chez Worldline puis Magellan à Noyelles-lès-Seclin sur le projet [Parcours Solidarités](https://www.magellangroup.eu/fr/produits/trusted-services/trusted-social-care/parcours-solidarites).
+<br>J'ai suivi auparavant des études en développement full-stack avec un BUT informatique à l'IUT de Lens avec lequel j'ai pu réaliser une année en apprentissage en tant qu'ingénieur études et développement full-stack chez Worldline puis Magellan à Noyelles-lès-Seclin sur le projet [Parcours Solidarités](https://www.magellangroup.eu/fr/produits/trusted-services/trusted-social-care/parcours-solidarites).
 
 <br>En dehors de mes études, je suis passionné de football, un cinéphile, lecteur de romans et de comic books ainsi que joueur à mes heures perdues. Je suis également curieux des dernières avancées technologiques.
 
