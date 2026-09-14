@@ -13,19 +13,28 @@
     <a href="https://www.linkedin.com/in/axel-riviere-dev">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://axel-riviere.dev/resume.pdf">
+    <a href="https://axel-riviere.dev/resume-axel-riviere.pdf">
         <img src="https://img.shields.io/badge/CV-4A3D75?style=flat&logoColor=white" alt="CV">
     </a>
 </h1>
 
-<h3> 👋 Bonjour ! </h3>
-Je m’appelle Axel, je suis étudiant en 3ᵉ année de BUT Informatique à l’IUT de Lens et en alternance chez Wordline Noyelles-lès-Seclin en tant que développeur full-stack.
+<h3>🔎 EN RECHERCHE D'UN STAGE</h3>
+Je suis à la recherche d'un stage d'au moins 10 semaines dans le secteur de l'IA pour minimum fin mars 2027 (30/03/27).
 
-<br>En dehors de ma formation, je suis passionné de football, un grand cinéphile, lecteur de romans et de comic books ainsi que joueur à mes heures perdues. Je suis également curieux des dernières avancées technologiques, notamment dans le domaine de l'intelligence artificielle.
+Celui-ci pourrait se poursuivre par une alternance pour ma deuxième année de master puis par un contrat après l'obtention de mon diplôme.
 
 <hr>
 
-<h3> 💻 Langages et technologies</h3>
+<h3>👋 Bonjour ! </h3>
+Je m’appelle Axel, je suis étudiant en première année de [master intelligence artificielle](https://www.sciences.univ-artois.fr/master-intelligence-artificielle), plus précisément au sein du parcours "intelligence artificielle appliquée", à la faculté des sciences Jean Perrin à Lens. 
+
+J'ai suivi auparavant des études en développement full-stack avec un BUT informatique à l'IUT de Lens avec lequel j'ai pu réaliser une année en apprentissage en tant qu'ingénieur études et développement full-stack chez Worldline puis Magellan à Noyelles-lès-Seclin sur le projet [Parcours Solidarités](https://www.magellangroup.eu/fr/produits/trusted-services/trusted-social-care/parcours-solidarites).
+
+<br>En dehors de mes études, je suis passionné de football, un cinéphile, lecteur de romans et de comic books ainsi que joueur à mes heures perdues. Je suis également curieux des dernières avancées technologiques.
+
+<hr>
+
+<h3>💻 Langages et technologies</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,ts,js,next,react,angular,py,php,laravel,html,css,tailwind,flask,postgresql,mysql,sqlite,plsql,bash,android,api,json&theme=dark)
 
@@ -35,8 +44,8 @@ Je m’appelle Axel, je suis étudiant en 3ᵉ année de BUT Informatique à l�
 
 <hr>
 
-<h3> 🤝 Contact </h3>
-Je serais ravi d'échanger avec vous si vous le souhaitez, que ce soit sur LinkedIn ou par email à axel.riviere.dev@gmail.com.
+<h3>🤝 Contact </h3>
+Je serais ravi d'échanger avec vous si vous le souhaitez, que ce soit sur [LinkedIn](https://www.linkedin.com/in/axel-riviere-dev) ou par email à [axel.riviere.dev@gmail.com](mailto:axel.riviere.dev@gmail.com).
 
 <hr>
 

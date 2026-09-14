@@ -13,15 +13,24 @@
     <a href="https://www.linkedin.com/in/axel-riviere-dev">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://axel-riviere.dev/resume.pdf">
+    <a href="https://axel-riviere.dev/resume-axel-riviere.pdf">
         <img src="https://img.shields.io/badge/Resume-4A3D75?style=flat&logoColor=white" alt="Resume">
     </a>
 </h1>
 
-<h3> 👋 Hello! </h3>
-My name is Axel, I’m a second-year student in the BUT Computer Science at IUT de Lens and a full-stack developer apprentice at Worldline Noyelles-lès-Seclin.
+<h3>🔎 LOOKING FOR AN INTERNSHIP</h3>
+I am looking for an internship of at least 10 weeks in the AI sector, starting no later than the end of March 2027 (03/30/27).
 
-<br>Outside my studies, I am a football fan, a movie passionate, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances, especially in the field of artificial intelligence.
+This could lead to a work-study program during my second year of my master’s degree and then to a full-time position after I graduate.
+
+<hr>
+
+<h3> 👋 Hello! </h3>
+My name is Axel. I am a first-year student in the [Master’s in Artificial Intelligence](https://www.sciences.univ-artois.fr/master-intelligence-artificielle), specifically in the “Applied Artificial Intelligence” track, at the Jean Perrin Faculty of Sciences in Lens. 
+
+I previously studied full-stack development as part of a Bachelor’s degree in Computer Science at the IUT of Lens, which allowed me to complete a one-year apprenticeship as a full-stack research and development engineer at Worldline and then Magellan in Noyelles-lès-Seclin on the [Parcours Solidarités](https://www.magellangroup.eu/fr/products/trusted-services/trusted-social-care/parcours-solidarites/) project.
+
+<br>Outside my studies, I am a football fan, a cinephile, a novels and comic books reader, and a gamer in my spare time. I am also curious about the latest technological advances.
 
 <hr>
 
@@ -36,7 +45,7 @@ My name is Axel, I’m a second-year student in the BUT Computer Science at IUT 
 <hr>
 
 <h3> 🤝 Contact </h3>
-I would be happy to talk with you if you’d like, whether on LinkedIn or via email at axel.riviere.dev@gmail.com.
+I would be happy to talk with you if you’d like, whether on [LinkedIn](https://www.linkedin.com/in/axel-riviere-dev/) or via email at [axel.riviere.dev@gmail.com](mailto:axel.riviere.dev@gmail.com).
 
 <hr>
 
